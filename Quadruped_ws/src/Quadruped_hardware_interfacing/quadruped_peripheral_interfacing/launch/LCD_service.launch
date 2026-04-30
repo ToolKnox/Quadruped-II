@@ -1,0 +1,3 @@
+<launch>
+    <node pkg = "quadruped_lcd_interfacing" type = "quadruped_lcd_interfacing.py" name = "quadruped_LCD_node" output="screen"></node>
+</launch>

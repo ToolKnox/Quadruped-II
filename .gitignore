@@ -1,0 +1,10 @@
+*.DS_Store
+*.pyc
+**/__pycache__
+quadruped_ws/build/*
+quadruped_ws/devel/*
+quadruped_ws/logs/*
+quadruped_ws/.catkin_tools/*
+quadruped_ws/.vscode/*
+.vscode/*
+quadruped_ws/src/.vscode/*

@@ -1,0 +1,11 @@
+{
+    "name": "QuadrupedII",
+    "service": "QuadrupedII",
+    "dockerComposeFile": "./Docker-compose.yaml",
+    "extensions": [
+        "ms-iot.vscode-ros"
+    ],
+    "workspaceFolder": "/quadruped_ws",
+    "shutdownAction": "stopCompose",
+    "overrideCommand": true
+}
