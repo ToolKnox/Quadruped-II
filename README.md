@@ -147,3 +147,7 @@ Both upstream projects are MIT-licensed; their original copyright notices are pr
 - 🛠 **Build it** — <https://www.printables.com/model/1443108-quadruped-v06-w-code>
 - 🐶 **Quadruped I (simpler sibling)** — same Printables URL, scroll for the link
 - 💛 **Support / get the full project files** — [Printables Club](https://www.printables.com/model/1443108-quadruped-v06-w-code#join.@TomKnox.1573)
+
+## Build resources
+
+- [Bill of Material](https://toolknox.github.io/Quadruped-II/bill-of-material.html)
