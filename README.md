@@ -75,6 +75,10 @@ docker compose up --build
 
 `.devcontainer.json` lets you open the repo in VS Code (Remote – Containers) and get the same environment as the Pi for editing / building without touching the host.
 
+## Bill of Material
+
+[Bill of Material (PDF)](BOM.pdf): every part to buy, with shop links.
+
 ## Install — bare metal (advanced)
 
 If you'd rather skip Docker:
